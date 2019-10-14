@@ -38,7 +38,7 @@ Follow these steps to get your development environment set up:
 
 1.  Clone the repository
     
-2.  Open the project with VS 2019.
+2.  Open the command prompt to project root directory ***SurveyShrike-IdentityServer***
     
     ```
     dotnet restore
