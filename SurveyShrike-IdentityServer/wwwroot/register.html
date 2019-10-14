@@ -21,52 +21,66 @@
 
         async function logMeIn() {
 
-            const returnUrl = getQueryVariable('ReturnUrl');
-            const username = document.getElementById('username').value;
+    
+            const username = document.getElementById('email').value;
             const password = document.getElementById('password').value;
 
             if (!username || !password) {
                 swal({
                     title: "Invalid data!",
-                    text: "Email and password are required field",
+                    text: "email and password are required field",
                     icon: "error",
 
                 });
             } else {
                 // call the API
-                const response = await fetch('http://localhost:5000/api/authenticate', {
-                    method: 'POST',
-                    headers: {
-                        'Content-Type': 'application/json',
-                    },
-                    credentials: 'include',
-                    body: JSON.stringify({
-                        username,
-                        password,
-                        returnUrl
-                    })
+                try {
+                    const response = await fetch('http://localhost:5000/api/Authenticate/register', {
+                       method: 'POST',
+                        headers: {
+                            'Content-Type': 'application/json',
+                        },
+                        credentials: 'include',
+                        body: JSON.stringify({
+                            email,
+                            password
+                        })
+                    });
+
+                    const data = await response.json();
+
+                     swal({
+                        title: "Registered!",
+                        text: "User has been registered successfully.",
+                        icon: "success",
+
+                     });
+                    window.location = data.redirectUrl;
+                } catch (e) {
+                      swal({
+                        title: "Validate data!",
+                        text: "Password should have one caps and one number.",
+                        icon: "error",
+
                 });
-
-                const data = await response.json();
-
-
-                window.location = data.redirectUrl;
+                }
+                
             }
         }</script>
     <div class="container h-100">
-        <p class="display-1">Login to Application</p>
+        <p class="display-1">Register to Application</p>
         <div class="row h-100 justify-content-center align-items-center">
             <form class="col-12">
                 <div class="form-group">
                     <label for="username">Email Id</label>
-                    <input type="text" name="username" id="username" value="" class="form-control" placeholder="admin@admin.com">
+                    <input type="email" name="email" id="email" value="" class="form-control" placeholder="admin@admin.com">
                 </div>
                 <div class="form-group">
                     <label for="password">Password</label>
                     <input type="password" name="password" id="password" value="" class="form-control" placeholder="Admin1">
                 </div>
 
-                <button type="button" class="btn btn-primary" name="button" id="login" onclick="logMeIn()">Login</button>
+                <button type="button" class="btn btn-primary" name="button" id="login" onclick="logMeIn()">Register</button>
             </form>
         </div>
     </div>
