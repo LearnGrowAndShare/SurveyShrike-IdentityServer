@@ -1,0 +1,5 @@
+language: csharp
+solution: SurveyShrike-API.sln
+dotnet: 3.0.100
+script:
+ - dotnet restore
