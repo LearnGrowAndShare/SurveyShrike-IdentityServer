@@ -63,11 +63,11 @@ namespace SurveyShrike_IdentityServer
                     RequireConsent = false,
 
                     // where to redirect to after login
-                    RedirectUris = { "http://localhost:8080/callback.html" },
+                    RedirectUris = { "http://localhost:4200/index.html" },
 
                     // where to redirect to after logout
-                    PostLogoutRedirectUris = { "http://localhost:8080/index.html" },
-                    AllowedCorsOrigins =     { "http://localhost:8080" },
+                    PostLogoutRedirectUris = { "http://localhost:4200/index.html" },
+                    AllowedCorsOrigins =     { "http://localhost:4200" },
                     AllowedScopes = new List<string>
                     {
                         IdentityServerConstants.StandardScopes.OpenId,
