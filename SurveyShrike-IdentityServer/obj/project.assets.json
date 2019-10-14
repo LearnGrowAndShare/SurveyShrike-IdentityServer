@@ -9246,11 +9246,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\office_assignemnt\\SurveyShrike\\SurveyShrike-IdentityServer\\SurveyShrike-IdentityServer\\SurveyShrike-IdentityServer.csproj",
+      "projectUniqueName": "E:\\office_assignemnt\\SurveyShrike\\id\\SurveyShrike-IdentityServer\\SurveyShrike-IdentityServer\\SurveyShrike-IdentityServer.csproj",
       "projectName": "SurveyShrike-IdentityServer",
-      "projectPath": "E:\\office_assignemnt\\SurveyShrike\\SurveyShrike-IdentityServer\\SurveyShrike-IdentityServer\\SurveyShrike-IdentityServer.csproj",
+      "projectPath": "E:\\office_assignemnt\\SurveyShrike\\id\\SurveyShrike-IdentityServer\\SurveyShrike-IdentityServer\\SurveyShrike-IdentityServer.csproj",
       "packagesPath": "C:\\Users\\dreamweaver\\.nuget\\packages\\",
-      "outputPath": "E:\\office_assignemnt\\SurveyShrike\\SurveyShrike-IdentityServer\\SurveyShrike-IdentityServer\\obj\\",
+      "outputPath": "E:\\office_assignemnt\\SurveyShrike\\id\\SurveyShrike-IdentityServer\\SurveyShrike-IdentityServer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -9271,11 +9271,11 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "E:\\office_assignemnt\\SurveyShrike\\SurveyShrike-IdentityServer\\SurveyShrike-IdentityServer.Application\\SurveyShrike-IdentityServer.Application.csproj": {
-              "projectPath": "E:\\office_assignemnt\\SurveyShrike\\SurveyShrike-IdentityServer\\SurveyShrike-IdentityServer.Application\\SurveyShrike-IdentityServer.Application.csproj"
+            "E:\\office_assignemnt\\SurveyShrike\\id\\SurveyShrike-IdentityServer\\SurveyShrike-IdentityServer.Application\\SurveyShrike-IdentityServer.Application.csproj": {
+              "projectPath": "E:\\office_assignemnt\\SurveyShrike\\id\\SurveyShrike-IdentityServer\\SurveyShrike-IdentityServer.Application\\SurveyShrike-IdentityServer.Application.csproj"
             },
-            "E:\\office_assignemnt\\SurveyShrike\\SurveyShrike-IdentityServer\\SurveyShrike-IdentityServer.Persistence\\SurveyShrike-IdentityServer.Persistence.csproj": {
-              "projectPath": "E:\\office_assignemnt\\SurveyShrike\\SurveyShrike-IdentityServer\\SurveyShrike-IdentityServer.Persistence\\SurveyShrike-IdentityServer.Persistence.csproj"
+            "E:\\office_assignemnt\\SurveyShrike\\id\\SurveyShrike-IdentityServer\\SurveyShrike-IdentityServer.Persistence\\SurveyShrike-IdentityServer.Persistence.csproj": {
+              "projectPath": "E:\\office_assignemnt\\SurveyShrike\\id\\SurveyShrike-IdentityServer\\SurveyShrike-IdentityServer.Persistence\\SurveyShrike-IdentityServer.Persistence.csproj"
             }
           }
         }

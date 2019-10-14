@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\office_assignemnt\\SurveyShrike\\SurveyShrike-IdentityServer\\SurveyShrike-IdentityServer.Infrastructure\\SurveyShrike-IdentityServer.Infrastructure.csproj": {}
+    "E:\\office_assignemnt\\SurveyShrike\\id\\SurveyShrike-IdentityServer\\SurveyShrike-IdentityServer.Infrastructure\\SurveyShrike-IdentityServer.Infrastructure.csproj": {}
   },
   "projects": {
-    "E:\\office_assignemnt\\SurveyShrike\\SurveyShrike-IdentityServer\\SurveyShrike-IdentityServer.Infrastructure\\SurveyShrike-IdentityServer.Infrastructure.csproj": {
+    "E:\\office_assignemnt\\SurveyShrike\\id\\SurveyShrike-IdentityServer\\SurveyShrike-IdentityServer.Infrastructure\\SurveyShrike-IdentityServer.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\office_assignemnt\\SurveyShrike\\SurveyShrike-IdentityServer\\SurveyShrike-IdentityServer.Infrastructure\\SurveyShrike-IdentityServer.Infrastructure.csproj",
+        "projectUniqueName": "E:\\office_assignemnt\\SurveyShrike\\id\\SurveyShrike-IdentityServer\\SurveyShrike-IdentityServer.Infrastructure\\SurveyShrike-IdentityServer.Infrastructure.csproj",
         "projectName": "SurveyShrike-IdentityServer.Infrastructure",
-        "projectPath": "E:\\office_assignemnt\\SurveyShrike\\SurveyShrike-IdentityServer\\SurveyShrike-IdentityServer.Infrastructure\\SurveyShrike-IdentityServer.Infrastructure.csproj",
+        "projectPath": "E:\\office_assignemnt\\SurveyShrike\\id\\SurveyShrike-IdentityServer\\SurveyShrike-IdentityServer.Infrastructure\\SurveyShrike-IdentityServer.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\dreamweaver\\.nuget\\packages\\",
-        "outputPath": "E:\\office_assignemnt\\SurveyShrike\\SurveyShrike-IdentityServer\\SurveyShrike-IdentityServer.Infrastructure\\obj\\",
+        "outputPath": "E:\\office_assignemnt\\SurveyShrike\\id\\SurveyShrike-IdentityServer\\SurveyShrike-IdentityServer.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
