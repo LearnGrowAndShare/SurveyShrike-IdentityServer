@@ -1,0 +1,8 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+    <RootNamespace>SurveyShrike_IdentityServer.Infrastructure</RootNamespace>
+  </PropertyGroup>
+
+</Project>

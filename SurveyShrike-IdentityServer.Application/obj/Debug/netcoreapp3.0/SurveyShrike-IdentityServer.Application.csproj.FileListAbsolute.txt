@@ -1,0 +1,19 @@
+E:\office_assignemnt\sample project\Identity\SurveyShrike-IdentityServer.Application\bin\Debug\netcoreapp3.0\SurveyShrike-IdentityServer.Application.deps.json
+E:\office_assignemnt\sample project\Identity\SurveyShrike-IdentityServer.Application\bin\Debug\netcoreapp3.0\SurveyShrike-IdentityServer.Application.dll
+E:\office_assignemnt\sample project\Identity\SurveyShrike-IdentityServer.Application\bin\Debug\netcoreapp3.0\SurveyShrike-IdentityServer.Application.pdb
+E:\office_assignemnt\sample project\Identity\SurveyShrike-IdentityServer.Application\obj\Debug\netcoreapp3.0\SurveyShrike-IdentityServer.Application.AssemblyInfoInputs.cache
+E:\office_assignemnt\sample project\Identity\SurveyShrike-IdentityServer.Application\obj\Debug\netcoreapp3.0\SurveyShrike-IdentityServer.Application.AssemblyInfo.cs
+E:\office_assignemnt\sample project\Identity\SurveyShrike-IdentityServer.Application\obj\Debug\netcoreapp3.0\SurveyShrike-IdentityServer.Application.dll
+E:\office_assignemnt\sample project\Identity\SurveyShrike-IdentityServer.Application\obj\Debug\netcoreapp3.0\SurveyShrike-IdentityServer.Application.pdb
+E:\office_assignemnt\sample project\Identity\SurveyShrike-IdentityServer.Application\obj\Debug\netcoreapp3.0\SurveyShrike-IdentityServer.Application.csprojAssemblyReference.cache
+E:\office_assignemnt\SurveyShrike\SurveyShrike-IdentityServer\SurveyShrike-IdentityServer.Application\bin\Debug\netcoreapp3.0\SurveyShrike-IdentityServer.Application.deps.json
+E:\office_assignemnt\SurveyShrike\SurveyShrike-IdentityServer\SurveyShrike-IdentityServer.Application\bin\Debug\netcoreapp3.0\SurveyShrike-IdentityServer.Application.dll
+E:\office_assignemnt\SurveyShrike\SurveyShrike-IdentityServer\SurveyShrike-IdentityServer.Application\bin\Debug\netcoreapp3.0\SurveyShrike-IdentityServer.Application.pdb
+E:\office_assignemnt\SurveyShrike\SurveyShrike-IdentityServer\SurveyShrike-IdentityServer.Application\obj\Debug\netcoreapp3.0\SurveyShrike-IdentityServer.Application.csprojAssemblyReference.cache
+E:\office_assignemnt\SurveyShrike\SurveyShrike-IdentityServer\SurveyShrike-IdentityServer.Application\obj\Debug\netcoreapp3.0\SurveyShrike-IdentityServer.Application.AssemblyInfoInputs.cache
+E:\office_assignemnt\SurveyShrike\SurveyShrike-IdentityServer\SurveyShrike-IdentityServer.Application\obj\Debug\netcoreapp3.0\SurveyShrike-IdentityServer.Application.AssemblyInfo.cs
+E:\office_assignemnt\SurveyShrike\SurveyShrike-IdentityServer\SurveyShrike-IdentityServer.Application\obj\Debug\netcoreapp3.0\SurveyShrike-IdentityServer.Application.dll
+E:\office_assignemnt\SurveyShrike\SurveyShrike-IdentityServer\SurveyShrike-IdentityServer.Application\obj\Debug\netcoreapp3.0\SurveyShrike-IdentityServer.Application.pdb
+E:\office_assignemnt\SurveyShrike\SurveyShrike-IdentityServer\SurveyShrike-IdentityServer.Application\bin\Debug\netcoreapp3.0\SurveyShrike-IdentityServer.Domain.dll
+E:\office_assignemnt\SurveyShrike\SurveyShrike-IdentityServer\SurveyShrike-IdentityServer.Application\bin\Debug\netcoreapp3.0\SurveyShrike-IdentityServer.Domain.pdb
+E:\office_assignemnt\SurveyShrike\SurveyShrike-IdentityServer\SurveyShrike-IdentityServer.Application\obj\Debug\netcoreapp3.0\SurveyShrike-IdentityServer.Application.csproj.CopyComplete

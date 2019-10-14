@@ -1,0 +1,26 @@
+E:\office_assignemnt\sample project\Identity\SurveyShrike-IdentityServer.Persistence\bin\Debug\netcoreapp3.0\SurveyShrike-IdentityServer.Persistence.deps.json
+E:\office_assignemnt\sample project\Identity\SurveyShrike-IdentityServer.Persistence\bin\Debug\netcoreapp3.0\SurveyShrike-IdentityServer.Persistence.dll
+E:\office_assignemnt\sample project\Identity\SurveyShrike-IdentityServer.Persistence\bin\Debug\netcoreapp3.0\SurveyShrike-IdentityServer.Persistence.pdb
+E:\office_assignemnt\sample project\Identity\SurveyShrike-IdentityServer.Persistence\obj\Debug\netcoreapp3.0\SurveyShrike-IdentityServer.Persistence.AssemblyInfoInputs.cache
+E:\office_assignemnt\sample project\Identity\SurveyShrike-IdentityServer.Persistence\obj\Debug\netcoreapp3.0\SurveyShrike-IdentityServer.Persistence.AssemblyInfo.cs
+E:\office_assignemnt\sample project\Identity\SurveyShrike-IdentityServer.Persistence\obj\Debug\netcoreapp3.0\SurveyShrike-IdentityServer.Persistence.dll
+E:\office_assignemnt\sample project\Identity\SurveyShrike-IdentityServer.Persistence\obj\Debug\netcoreapp3.0\SurveyShrike-IdentityServer.Persistence.pdb
+E:\office_assignemnt\sample project\Identity\SurveyShrike-IdentityServer.Persistence\obj\Debug\netcoreapp3.0\SurveyShrike-IdentityServer.Persistence.csprojAssemblyReference.cache
+E:\office_assignemnt\sample project\Identity\SurveyShrike-IdentityServer.Persistence\bin\Debug\netcoreapp3.0\SurveyShrike-IdentityServer.Domain.dll
+E:\office_assignemnt\sample project\Identity\SurveyShrike-IdentityServer.Persistence\bin\Debug\netcoreapp3.0\SurveyShrike-IdentityServer.Domain.pdb
+E:\office_assignemnt\sample project\Identity\SurveyShrike-IdentityServer.Persistence\obj\Debug\netcoreapp3.0\SurveyShrike-IdentityServer.Persistence.csproj.CopyComplete
+E:\office_assignemnt\SurveyShrike\SurveyShrike-IdentityServer\SurveyShrike-IdentityServer.Persistence\bin\Debug\netcoreapp3.0\SurveyShrike-IdentityServer.Persistence.deps.json
+E:\office_assignemnt\SurveyShrike\SurveyShrike-IdentityServer\SurveyShrike-IdentityServer.Persistence\bin\Debug\netcoreapp3.0\SurveyShrike-IdentityServer.Persistence.dll
+E:\office_assignemnt\SurveyShrike\SurveyShrike-IdentityServer\SurveyShrike-IdentityServer.Persistence\bin\Debug\netcoreapp3.0\SurveyShrike-IdentityServer.Persistence.pdb
+E:\office_assignemnt\SurveyShrike\SurveyShrike-IdentityServer\SurveyShrike-IdentityServer.Persistence\bin\Debug\netcoreapp3.0\SurveyShrike-IdentityServer.Domain.dll
+E:\office_assignemnt\SurveyShrike\SurveyShrike-IdentityServer\SurveyShrike-IdentityServer.Persistence\bin\Debug\netcoreapp3.0\SurveyShrike-IdentityServer.Domain.pdb
+E:\office_assignemnt\SurveyShrike\SurveyShrike-IdentityServer\SurveyShrike-IdentityServer.Persistence\obj\Debug\netcoreapp3.0\SurveyShrike-IdentityServer.Persistence.csprojAssemblyReference.cache
+E:\office_assignemnt\SurveyShrike\SurveyShrike-IdentityServer\SurveyShrike-IdentityServer.Persistence\obj\Debug\netcoreapp3.0\SurveyShrike-IdentityServer.Persistence.AssemblyInfoInputs.cache
+E:\office_assignemnt\SurveyShrike\SurveyShrike-IdentityServer\SurveyShrike-IdentityServer.Persistence\obj\Debug\netcoreapp3.0\SurveyShrike-IdentityServer.Persistence.AssemblyInfo.cs
+E:\office_assignemnt\SurveyShrike\SurveyShrike-IdentityServer\SurveyShrike-IdentityServer.Persistence\obj\Debug\netcoreapp3.0\SurveyShrike-IdentityServer.Persistence.csproj.CopyComplete
+E:\office_assignemnt\SurveyShrike\SurveyShrike-IdentityServer\SurveyShrike-IdentityServer.Persistence\obj\Debug\netcoreapp3.0\SurveyShrike-IdentityServer.Persistence.dll
+E:\office_assignemnt\SurveyShrike\SurveyShrike-IdentityServer\SurveyShrike-IdentityServer.Persistence\obj\Debug\netcoreapp3.0\SurveyShrike-IdentityServer.Persistence.pdb
+E:\office_assignemnt\SurveyShrike\SurveyShrike-IdentityServer\SurveyShrike-IdentityServer.Persistence\bin\Debug\netcoreapp3.0\SurveyShrike-IdentityServer.Application.dll
+E:\office_assignemnt\SurveyShrike\SurveyShrike-IdentityServer\SurveyShrike-IdentityServer.Persistence\bin\Debug\netcoreapp3.0\SurveyShrike-IdentityServer.Application.pdb
+E:\office_assignemnt\SurveyShrike\SurveyShrike-IdentityServer\SurveyShrike-IdentityServer.Persistence\bin\Debug\netcoreapp3.0\SurveyShrike-IdentityServer.Persistence.runtimeconfig.json
+E:\office_assignemnt\SurveyShrike\SurveyShrike-IdentityServer\SurveyShrike-IdentityServer.Persistence\bin\Debug\netcoreapp3.0\SurveyShrike-IdentityServer.Persistence.runtimeconfig.dev.json

@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+    <RootNamespace>SurveyShrike_IdentityServer.Application</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Interfaces\Mapping\IHaveCustomMapping.cs~RF88bd573.TMP" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="9.0.0" />
+    <PackageReference Include="FluentValidation" Version="8.5.0" />
+    <PackageReference Include="IdentityServer4" Version="3.0.1" />
+    <PackageReference Include="MediatR" Version="7.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Identity.Stores" Version="3.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SurveyShrike-IdentityServer.Domain\SurveyShrike-IdentityServer.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

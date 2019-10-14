@@ -1,0 +1,136 @@
+E:\office_assignemnt\sample project\Identity\SurveyShrike-IdentityServer\bin\Debug\netcoreapp3.0\appsettings.Development.json
+E:\office_assignemnt\sample project\Identity\SurveyShrike-IdentityServer\bin\Debug\netcoreapp3.0\appsettings.json
+E:\office_assignemnt\sample project\Identity\SurveyShrike-IdentityServer\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+E:\office_assignemnt\sample project\Identity\SurveyShrike-IdentityServer\obj\Debug\netcoreapp3.0\staticwebassets\SurveyShrike-IdentityServer.StaticWebAssets.Manifest.cache
+E:\office_assignemnt\sample project\Identity\SurveyShrike-IdentityServer\obj\Debug\netcoreapp3.0\staticwebassets\SurveyShrike-IdentityServer.StaticWebAssets.xml
+E:\office_assignemnt\sample project\Identity\SurveyShrike-IdentityServer\obj\Debug\netcoreapp3.0\SurveyShrike-IdentityServer.AssemblyInfoInputs.cache
+E:\office_assignemnt\sample project\Identity\SurveyShrike-IdentityServer\obj\Debug\netcoreapp3.0\SurveyShrike-IdentityServer.AssemblyInfo.cs
+E:\office_assignemnt\sample project\Identity\SurveyShrike-IdentityServer\obj\Debug\netcoreapp3.0\SurveyShrike-IdentityServer.RazorTargetAssemblyInfo.cache
+E:\office_assignemnt\sample project\Identity\SurveyShrike-IdentityServer\bin\Debug\netcoreapp3.0\SurveyShrike-IdentityServer.exe
+E:\office_assignemnt\sample project\Identity\SurveyShrike-IdentityServer\bin\Debug\netcoreapp3.0\SurveyShrike-IdentityServer.deps.json
+E:\office_assignemnt\sample project\Identity\SurveyShrike-IdentityServer\bin\Debug\netcoreapp3.0\SurveyShrike-IdentityServer.runtimeconfig.json
+E:\office_assignemnt\sample project\Identity\SurveyShrike-IdentityServer\bin\Debug\netcoreapp3.0\SurveyShrike-IdentityServer.runtimeconfig.dev.json
+E:\office_assignemnt\sample project\Identity\SurveyShrike-IdentityServer\bin\Debug\netcoreapp3.0\SurveyShrike-IdentityServer.dll
+E:\office_assignemnt\sample project\Identity\SurveyShrike-IdentityServer\bin\Debug\netcoreapp3.0\SurveyShrike-IdentityServer.pdb
+E:\office_assignemnt\sample project\Identity\SurveyShrike-IdentityServer\obj\Debug\netcoreapp3.0\SurveyShrike-IdentityServer.dll
+E:\office_assignemnt\sample project\Identity\SurveyShrike-IdentityServer\obj\Debug\netcoreapp3.0\SurveyShrike-IdentityServer.pdb
+E:\office_assignemnt\sample project\Identity\SurveyShrike-IdentityServer\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+E:\office_assignemnt\sample project\Identity\SurveyShrike-IdentityServer\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+E:\office_assignemnt\sample project\Identity\SurveyShrike-IdentityServer\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\office_assignemnt\sample project\Identity\SurveyShrike-IdentityServer\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\office_assignemnt\sample project\Identity\SurveyShrike-IdentityServer\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\office_assignemnt\sample project\Identity\SurveyShrike-IdentityServer\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+E:\office_assignemnt\sample project\Identity\SurveyShrike-IdentityServer\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+E:\office_assignemnt\sample project\Identity\SurveyShrike-IdentityServer\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+E:\office_assignemnt\sample project\Identity\SurveyShrike-IdentityServer\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+E:\office_assignemnt\sample project\Identity\SurveyShrike-IdentityServer\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\office_assignemnt\sample project\Identity\SurveyShrike-IdentityServer\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\office_assignemnt\sample project\Identity\SurveyShrike-IdentityServer\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+E:\office_assignemnt\sample project\Identity\SurveyShrike-IdentityServer\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+E:\office_assignemnt\sample project\Identity\SurveyShrike-IdentityServer\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+E:\office_assignemnt\sample project\Identity\SurveyShrike-IdentityServer\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\office_assignemnt\sample project\Identity\SurveyShrike-IdentityServer\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\office_assignemnt\sample project\Identity\SurveyShrike-IdentityServer\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\office_assignemnt\sample project\Identity\SurveyShrike-IdentityServer\obj\Debug\netcoreapp3.0\SurveyShrike-IdentityServer.MvcApplicationPartsAssemblyInfo.cache
+E:\office_assignemnt\sample project\Identity\SurveyShrike-IdentityServer\obj\Debug\netcoreapp3.0\SurveyShrike-IdentityServer.csproj.CopyComplete
+E:\office_assignemnt\sample project\Identity\SurveyShrike-IdentityServer\obj\Debug\netcoreapp3.0\SurveyShrike-IdentityServer.csprojAssemblyReference.cache
+E:\office_assignemnt\SurveyShrike\SurveyShrike-IdentityServer\SurveyShrike-IdentityServer\bin\Debug\netcoreapp3.0\appsettings.Development.json
+E:\office_assignemnt\SurveyShrike\SurveyShrike-IdentityServer\SurveyShrike-IdentityServer\bin\Debug\netcoreapp3.0\appsettings.json
+E:\office_assignemnt\SurveyShrike\SurveyShrike-IdentityServer\SurveyShrike-IdentityServer\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+E:\office_assignemnt\SurveyShrike\SurveyShrike-IdentityServer\SurveyShrike-IdentityServer\bin\Debug\netcoreapp3.0\SurveyShrike-IdentityServer.exe
+E:\office_assignemnt\SurveyShrike\SurveyShrike-IdentityServer\SurveyShrike-IdentityServer\bin\Debug\netcoreapp3.0\SurveyShrike-IdentityServer.deps.json
+E:\office_assignemnt\SurveyShrike\SurveyShrike-IdentityServer\SurveyShrike-IdentityServer\bin\Debug\netcoreapp3.0\SurveyShrike-IdentityServer.runtimeconfig.json
+E:\office_assignemnt\SurveyShrike\SurveyShrike-IdentityServer\SurveyShrike-IdentityServer\bin\Debug\netcoreapp3.0\SurveyShrike-IdentityServer.runtimeconfig.dev.json
+E:\office_assignemnt\SurveyShrike\SurveyShrike-IdentityServer\SurveyShrike-IdentityServer\bin\Debug\netcoreapp3.0\SurveyShrike-IdentityServer.dll
+E:\office_assignemnt\SurveyShrike\SurveyShrike-IdentityServer\SurveyShrike-IdentityServer\bin\Debug\netcoreapp3.0\SurveyShrike-IdentityServer.pdb
+E:\office_assignemnt\SurveyShrike\SurveyShrike-IdentityServer\SurveyShrike-IdentityServer\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+E:\office_assignemnt\SurveyShrike\SurveyShrike-IdentityServer\SurveyShrike-IdentityServer\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+E:\office_assignemnt\SurveyShrike\SurveyShrike-IdentityServer\SurveyShrike-IdentityServer\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\office_assignemnt\SurveyShrike\SurveyShrike-IdentityServer\SurveyShrike-IdentityServer\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\office_assignemnt\SurveyShrike\SurveyShrike-IdentityServer\SurveyShrike-IdentityServer\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\office_assignemnt\SurveyShrike\SurveyShrike-IdentityServer\SurveyShrike-IdentityServer\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+E:\office_assignemnt\SurveyShrike\SurveyShrike-IdentityServer\SurveyShrike-IdentityServer\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+E:\office_assignemnt\SurveyShrike\SurveyShrike-IdentityServer\SurveyShrike-IdentityServer\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+E:\office_assignemnt\SurveyShrike\SurveyShrike-IdentityServer\SurveyShrike-IdentityServer\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+E:\office_assignemnt\SurveyShrike\SurveyShrike-IdentityServer\SurveyShrike-IdentityServer\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\office_assignemnt\SurveyShrike\SurveyShrike-IdentityServer\SurveyShrike-IdentityServer\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\office_assignemnt\SurveyShrike\SurveyShrike-IdentityServer\SurveyShrike-IdentityServer\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+E:\office_assignemnt\SurveyShrike\SurveyShrike-IdentityServer\SurveyShrike-IdentityServer\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+E:\office_assignemnt\SurveyShrike\SurveyShrike-IdentityServer\SurveyShrike-IdentityServer\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+E:\office_assignemnt\SurveyShrike\SurveyShrike-IdentityServer\SurveyShrike-IdentityServer\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\office_assignemnt\SurveyShrike\SurveyShrike-IdentityServer\SurveyShrike-IdentityServer\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\office_assignemnt\SurveyShrike\SurveyShrike-IdentityServer\SurveyShrike-IdentityServer\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\office_assignemnt\SurveyShrike\SurveyShrike-IdentityServer\SurveyShrike-IdentityServer\obj\Debug\netcoreapp3.0\SurveyShrike-IdentityServer.csprojAssemblyReference.cache
+E:\office_assignemnt\SurveyShrike\SurveyShrike-IdentityServer\SurveyShrike-IdentityServer\obj\Debug\netcoreapp3.0\staticwebassets\SurveyShrike-IdentityServer.StaticWebAssets.Manifest.cache
+E:\office_assignemnt\SurveyShrike\SurveyShrike-IdentityServer\SurveyShrike-IdentityServer\obj\Debug\netcoreapp3.0\staticwebassets\SurveyShrike-IdentityServer.StaticWebAssets.xml
+E:\office_assignemnt\SurveyShrike\SurveyShrike-IdentityServer\SurveyShrike-IdentityServer\obj\Debug\netcoreapp3.0\SurveyShrike-IdentityServer.AssemblyInfoInputs.cache
+E:\office_assignemnt\SurveyShrike\SurveyShrike-IdentityServer\SurveyShrike-IdentityServer\obj\Debug\netcoreapp3.0\SurveyShrike-IdentityServer.AssemblyInfo.cs
+E:\office_assignemnt\SurveyShrike\SurveyShrike-IdentityServer\SurveyShrike-IdentityServer\obj\Debug\netcoreapp3.0\SurveyShrike-IdentityServer.RazorTargetAssemblyInfo.cache
+E:\office_assignemnt\SurveyShrike\SurveyShrike-IdentityServer\SurveyShrike-IdentityServer\obj\Debug\netcoreapp3.0\SurveyShrike-IdentityServer.csproj.CopyComplete
+E:\office_assignemnt\SurveyShrike\SurveyShrike-IdentityServer\SurveyShrike-IdentityServer\obj\Debug\netcoreapp3.0\SurveyShrike-IdentityServer.dll
+E:\office_assignemnt\SurveyShrike\SurveyShrike-IdentityServer\SurveyShrike-IdentityServer\obj\Debug\netcoreapp3.0\SurveyShrike-IdentityServer.pdb
+E:\office_assignemnt\SurveyShrike\SurveyShrike-IdentityServer\SurveyShrike-IdentityServer\bin\Debug\netcoreapp3.0\MediatR.dll
+E:\office_assignemnt\SurveyShrike\SurveyShrike-IdentityServer\SurveyShrike-IdentityServer\bin\Debug\netcoreapp3.0\AutoMapper.dll
+E:\office_assignemnt\SurveyShrike\SurveyShrike-IdentityServer\SurveyShrike-IdentityServer\bin\Debug\netcoreapp3.0\EntityFramework.SqlServer.dll
+E:\office_assignemnt\SurveyShrike\SurveyShrike-IdentityServer\SurveyShrike-IdentityServer\bin\Debug\netcoreapp3.0\EntityFramework.dll
+E:\office_assignemnt\SurveyShrike\SurveyShrike-IdentityServer\SurveyShrike-IdentityServer\bin\Debug\netcoreapp3.0\FluentValidation.dll
+E:\office_assignemnt\SurveyShrike\SurveyShrike-IdentityServer\SurveyShrike-IdentityServer\bin\Debug\netcoreapp3.0\IdentityModel.dll
+E:\office_assignemnt\SurveyShrike\SurveyShrike-IdentityServer\SurveyShrike-IdentityServer\bin\Debug\netcoreapp3.0\IdentityServer4.dll
+E:\office_assignemnt\SurveyShrike\SurveyShrike-IdentityServer\SurveyShrike-IdentityServer\bin\Debug\netcoreapp3.0\IdentityServer4.Storage.dll
+E:\office_assignemnt\SurveyShrike\SurveyShrike-IdentityServer\SurveyShrike-IdentityServer\bin\Debug\netcoreapp3.0\Microsoft.AspNet.Identity.Core.dll
+E:\office_assignemnt\SurveyShrike\SurveyShrike-IdentityServer\SurveyShrike-IdentityServer\bin\Debug\netcoreapp3.0\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\office_assignemnt\SurveyShrike\SurveyShrike-IdentityServer\SurveyShrike-IdentityServer\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+E:\office_assignemnt\SurveyShrike\SurveyShrike-IdentityServer\SurveyShrike-IdentityServer\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\office_assignemnt\SurveyShrike\SurveyShrike-IdentityServer\SurveyShrike-IdentityServer\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Logging.dll
+E:\office_assignemnt\SurveyShrike\SurveyShrike-IdentityServer\SurveyShrike-IdentityServer\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.dll
+E:\office_assignemnt\SurveyShrike\SurveyShrike-IdentityServer\SurveyShrike-IdentityServer\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\office_assignemnt\SurveyShrike\SurveyShrike-IdentityServer\SurveyShrike-IdentityServer\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Tokens.dll
+E:\office_assignemnt\SurveyShrike\SurveyShrike-IdentityServer\SurveyShrike-IdentityServer\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+E:\office_assignemnt\SurveyShrike\SurveyShrike-IdentityServer\SurveyShrike-IdentityServer\bin\Debug\netcoreapp3.0\System.IdentityModel.Tokens.Jwt.dll
+E:\office_assignemnt\SurveyShrike\SurveyShrike-IdentityServer\SurveyShrike-IdentityServer\bin\Debug\netcoreapp3.0\SurveyShrike-IdentityServer.Application.dll
+E:\office_assignemnt\SurveyShrike\SurveyShrike-IdentityServer\SurveyShrike-IdentityServer\bin\Debug\netcoreapp3.0\SurveyShrike-IdentityServer.Domain.dll
+E:\office_assignemnt\SurveyShrike\SurveyShrike-IdentityServer\SurveyShrike-IdentityServer\bin\Debug\netcoreapp3.0\SurveyShrike-IdentityServer.Application.pdb
+E:\office_assignemnt\SurveyShrike\SurveyShrike-IdentityServer\SurveyShrike-IdentityServer\bin\Debug\netcoreapp3.0\SurveyShrike-IdentityServer.Domain.pdb
+E:\office_assignemnt\SurveyShrike\SurveyShrike-IdentityServer\SurveyShrike-IdentityServer\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\office_assignemnt\SurveyShrike\SurveyShrike-IdentityServer\SurveyShrike-IdentityServer\bin\Debug\netcoreapp3.0\Microsoft.DotNet.PlatformAbstractions.dll
+E:\office_assignemnt\SurveyShrike\SurveyShrike-IdentityServer\SurveyShrike-IdentityServer\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyModel.dll
+E:\office_assignemnt\SurveyShrike\SurveyShrike-IdentityServer\SurveyShrike-IdentityServer\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\office_assignemnt\SurveyShrike\SurveyShrike-IdentityServer\SurveyShrike-IdentityServer\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\office_assignemnt\SurveyShrike\SurveyShrike-IdentityServer\SurveyShrike-IdentityServer\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\office_assignemnt\SurveyShrike\SurveyShrike-IdentityServer\SurveyShrike-IdentityServer\bin\Debug\netcoreapp3.0\Autofac.dll
+E:\office_assignemnt\SurveyShrike\SurveyShrike-IdentityServer\SurveyShrike-IdentityServer\bin\Debug\netcoreapp3.0\Autofac.Extensions.DependencyInjection.dll
+E:\office_assignemnt\SurveyShrike\SurveyShrike-IdentityServer\SurveyShrike-IdentityServer\bin\Debug\netcoreapp3.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\office_assignemnt\SurveyShrike\SurveyShrike-IdentityServer\SurveyShrike-IdentityServer\bin\Debug\netcoreapp3.0\FluentValidation.AspNetCore.dll
+E:\office_assignemnt\SurveyShrike\SurveyShrike-IdentityServer\SurveyShrike-IdentityServer\bin\Debug\netcoreapp3.0\FluentValidation.DependencyInjectionExtensions.dll
+E:\office_assignemnt\SurveyShrike\SurveyShrike-IdentityServer\SurveyShrike-IdentityServer\bin\Debug\netcoreapp3.0\IdentityServer4.EntityFramework.Storage.dll
+E:\office_assignemnt\SurveyShrike\SurveyShrike-IdentityServer\SurveyShrike-IdentityServer\bin\Debug\netcoreapp3.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+E:\office_assignemnt\SurveyShrike\SurveyShrike-IdentityServer\SurveyShrike-IdentityServer\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\office_assignemnt\SurveyShrike\SurveyShrike-IdentityServer\SurveyShrike-IdentityServer\bin\Debug\netcoreapp3.0\SurveyShrike-IdentityServer.Persistence.dll
+E:\office_assignemnt\SurveyShrike\SurveyShrike-IdentityServer\SurveyShrike-IdentityServer\bin\Debug\netcoreapp3.0\SurveyShrike-IdentityServer.Persistence.pdb
+E:\office_assignemnt\SurveyShrike\SurveyShrike-IdentityServer\SurveyShrike-IdentityServer\bin\Debug\netcoreapp3.0\Castle.Core.dll
+E:\office_assignemnt\SurveyShrike\SurveyShrike-IdentityServer\SurveyShrike-IdentityServer\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Proxies.dll
+E:\office_assignemnt\SurveyShrike\SurveyShrike-IdentityServer\SurveyShrike-IdentityServer\bin\Debug\netcoreapp3.0\IdentityServer4.AspNetIdentity.dll
+E:\office_assignemnt\SurveyShrike\SurveyShrike-IdentityServer\SurveyShrike-IdentityServer\bin\Debug\netcoreapp3.0\IdentityServer4.EntityFramework.dll
+E:\office_assignemnt\SurveyShrike\SurveyShrike-IdentityServer\SurveyShrike-IdentityServer\obj\Debug\netcoreapp3.0\SurveyShrike-IdentityServer.MvcApplicationPartsAssemblyInfo.cs
+E:\office_assignemnt\SurveyShrike\SurveyShrike-IdentityServer\SurveyShrike-IdentityServer\obj\Debug\netcoreapp3.0\SurveyShrike-IdentityServer.MvcApplicationPartsAssemblyInfo.cache
+E:\office_assignemnt\SurveyShrike\SurveyShrike-IdentityServer\SurveyShrike-IdentityServer\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\office_assignemnt\SurveyShrike\SurveyShrike-IdentityServer\SurveyShrike-IdentityServer\bin\Debug\netcoreapp3.0\Microsoft.OpenApi.dll
+E:\office_assignemnt\SurveyShrike\SurveyShrike-IdentityServer\SurveyShrike-IdentityServer\bin\Debug\netcoreapp3.0\Newtonsoft.Json.Bson.dll
+E:\office_assignemnt\SurveyShrike\SurveyShrike-IdentityServer\SurveyShrike-IdentityServer\bin\Debug\netcoreapp3.0\Microsoft.Data.Sqlite.dll
+E:\office_assignemnt\SurveyShrike\SurveyShrike-IdentityServer\SurveyShrike-IdentityServer\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\office_assignemnt\SurveyShrike\SurveyShrike-IdentityServer\SurveyShrike-IdentityServer\bin\Debug\netcoreapp3.0\SQLitePCLRaw.batteries_v2.dll
+E:\office_assignemnt\SurveyShrike\SurveyShrike-IdentityServer\SurveyShrike-IdentityServer\bin\Debug\netcoreapp3.0\SQLitePCLRaw.nativelibrary.dll
+E:\office_assignemnt\SurveyShrike\SurveyShrike-IdentityServer\SurveyShrike-IdentityServer\bin\Debug\netcoreapp3.0\SQLitePCLRaw.core.dll
+E:\office_assignemnt\SurveyShrike\SurveyShrike-IdentityServer\SurveyShrike-IdentityServer\bin\Debug\netcoreapp3.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\office_assignemnt\SurveyShrike\SurveyShrike-IdentityServer\SurveyShrike-IdentityServer\bin\Debug\netcoreapp3.0\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\office_assignemnt\SurveyShrike\SurveyShrike-IdentityServer\SurveyShrike-IdentityServer\bin\Debug\netcoreapp3.0\runtimes\linux-arm\native\libe_sqlite3.so
+E:\office_assignemnt\SurveyShrike\SurveyShrike-IdentityServer\SurveyShrike-IdentityServer\bin\Debug\netcoreapp3.0\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\office_assignemnt\SurveyShrike\SurveyShrike-IdentityServer\SurveyShrike-IdentityServer\bin\Debug\netcoreapp3.0\runtimes\linux-armel\native\libe_sqlite3.so
+E:\office_assignemnt\SurveyShrike\SurveyShrike-IdentityServer\SurveyShrike-IdentityServer\bin\Debug\netcoreapp3.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\office_assignemnt\SurveyShrike\SurveyShrike-IdentityServer\SurveyShrike-IdentityServer\bin\Debug\netcoreapp3.0\runtimes\linux-x64\native\libe_sqlite3.so
+E:\office_assignemnt\SurveyShrike\SurveyShrike-IdentityServer\SurveyShrike-IdentityServer\bin\Debug\netcoreapp3.0\runtimes\linux-x86\native\libe_sqlite3.so
+E:\office_assignemnt\SurveyShrike\SurveyShrike-IdentityServer\SurveyShrike-IdentityServer\bin\Debug\netcoreapp3.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\office_assignemnt\SurveyShrike\SurveyShrike-IdentityServer\SurveyShrike-IdentityServer\bin\Debug\netcoreapp3.0\runtimes\win-arm\native\e_sqlite3.dll
+E:\office_assignemnt\SurveyShrike\SurveyShrike-IdentityServer\SurveyShrike-IdentityServer\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\e_sqlite3.dll
+E:\office_assignemnt\SurveyShrike\SurveyShrike-IdentityServer\SurveyShrike-IdentityServer\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\e_sqlite3.dll
+E:\office_assignemnt\SurveyShrike\SurveyShrike-IdentityServer\SurveyShrike-IdentityServer\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\e_sqlite3.dll

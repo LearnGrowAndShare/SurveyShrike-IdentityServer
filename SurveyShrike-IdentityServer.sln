@@ -1,0 +1,63 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29409.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SurveyShrike-IdentityServer", "SurveyShrike-IdentityServer\SurveyShrike-IdentityServer.csproj", "{08DB7F2A-6B51-4A54-B2F6-E61645AB5AB2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{3A77A539-122D-4E34-B9FA-85D1675494AA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{09582B4B-D0DF-4809-9088-2B46BCD8ABD1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SurveyShrike-IdentityServer.Application", "SurveyShrike-IdentityServer.Application\SurveyShrike-IdentityServer.Application.csproj", "{8BBC3578-5F07-4F95-B382-B29FBC260BC2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SurveyShrike-IdentityServer.Domain", "SurveyShrike-IdentityServer.Domain\SurveyShrike-IdentityServer.Domain.csproj", "{DFA2F8D7-72F1-4A66-8D68-5D8C0B2FA903}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SurveyShrike-IdentityServer.Infrastructure", "SurveyShrike-IdentityServer.Infrastructure\SurveyShrike-IdentityServer.Infrastructure.csproj", "{756A0258-48B9-4DA5-8075-01E4569765E4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SurveyShrike-IdentityServer.Persistence", "SurveyShrike-IdentityServer.Persistence\SurveyShrike-IdentityServer.Persistence.csproj", "{2C37A1EC-B5B1-456B-8994-CDE1337A3587}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data", "Data", "{813D7A62-EA77-4341-88F3-04DC95E20B81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08DB7F2A-6B51-4A54-B2F6-E61645AB5AB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08DB7F2A-6B51-4A54-B2F6-E61645AB5AB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08DB7F2A-6B51-4A54-B2F6-E61645AB5AB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08DB7F2A-6B51-4A54-B2F6-E61645AB5AB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BBC3578-5F07-4F95-B382-B29FBC260BC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BBC3578-5F07-4F95-B382-B29FBC260BC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BBC3578-5F07-4F95-B382-B29FBC260BC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BBC3578-5F07-4F95-B382-B29FBC260BC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFA2F8D7-72F1-4A66-8D68-5D8C0B2FA903}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFA2F8D7-72F1-4A66-8D68-5D8C0B2FA903}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFA2F8D7-72F1-4A66-8D68-5D8C0B2FA903}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFA2F8D7-72F1-4A66-8D68-5D8C0B2FA903}.Release|Any CPU.Build.0 = Release|Any CPU
+		{756A0258-48B9-4DA5-8075-01E4569765E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{756A0258-48B9-4DA5-8075-01E4569765E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{756A0258-48B9-4DA5-8075-01E4569765E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{756A0258-48B9-4DA5-8075-01E4569765E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C37A1EC-B5B1-456B-8994-CDE1337A3587}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C37A1EC-B5B1-456B-8994-CDE1337A3587}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C37A1EC-B5B1-456B-8994-CDE1337A3587}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C37A1EC-B5B1-456B-8994-CDE1337A3587}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{08DB7F2A-6B51-4A54-B2F6-E61645AB5AB2} = {3A77A539-122D-4E34-B9FA-85D1675494AA}
+		{8BBC3578-5F07-4F95-B382-B29FBC260BC2} = {3A77A539-122D-4E34-B9FA-85D1675494AA}
+		{DFA2F8D7-72F1-4A66-8D68-5D8C0B2FA903} = {3A77A539-122D-4E34-B9FA-85D1675494AA}
+		{756A0258-48B9-4DA5-8075-01E4569765E4} = {3A77A539-122D-4E34-B9FA-85D1675494AA}
+		{2C37A1EC-B5B1-456B-8994-CDE1337A3587} = {3A77A539-122D-4E34-B9FA-85D1675494AA}
+		{813D7A62-EA77-4341-88F3-04DC95E20B81} = {3A77A539-122D-4E34-B9FA-85D1675494AA}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B53D1BF-C977-419B-A2D7-0F5628A56C0F}
+	EndGlobalSection
+EndGlobal

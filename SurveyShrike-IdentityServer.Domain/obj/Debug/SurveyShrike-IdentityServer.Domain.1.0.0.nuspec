@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>SurveyShrike-IdentityServer.Domain</id>
+    <version>1.0.0</version>
+    <authors>SurveyShrike-IdentityServer.Domain</authors>
+    <owners>SurveyShrike-IdentityServer.Domain</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="E:\office_assignemnt\sample project\Identity\SurveyShrike-IdentityServer.Domain\bin\Debug\netcoreapp3.0\SurveyShrike-IdentityServer.Domain.dll" target="lib\netcoreapp3.0\SurveyShrike-IdentityServer.Domain.dll" />
+  </files>
+</package>
