@@ -28,7 +28,12 @@ namespace SurveyShrike_IdentityServer
         {
             return new ApiResource[]
             {
-                new ApiResource("api", "SurveyShrike- Apis to manage surveys")
+                new ApiResource("api", "SurveyShrike- Apis to manage surveys"){
+                UserClaims = 
+                    {
+
+                        JwtClaimTypes.Name,
+                    }}
             };
         }
 
@@ -41,14 +46,17 @@ namespace SurveyShrike_IdentityServer
                     ClientId = "client",
                     // no interactive user, use the clientid/secret for authentication
                     AllowedGrantTypes = GrantTypes.ClientCredentials,
-                    AllowedCorsOrigins =     { "http://localhost:8080" },
+                    AllowedCorsOrigins =     { "http://localhost:8080" , "http://localhost:4200"},
                     // secret for authentication
                     ClientSecrets =
                     {
                         new Secret("secret".Sha256())
                     },
+          
                     // scopes that client has access to
-                    AllowedScopes = { "api" }
+                    AllowedScopes = { IdentityServerConstants.StandardScopes.Profile,
+                                     IdentityServerConstants.StandardScopes.OpenId,
+                                      IdentityServerConstants.StandardScopes.Email, "api" }
                 },
                 new Client
                 {
@@ -58,16 +66,16 @@ namespace SurveyShrike_IdentityServer
                     // Specifies whether this client can request refresh tokens
                     AllowOfflineAccess = true,
                     RequireClientSecret = false,
-                    
+                    AlwaysIncludeUserClaimsInIdToken=true,
                     // no consent page
                     RequireConsent = false,
 
                     // where to redirect to after login
-                    RedirectUris = { "http://localhost:8080/callback.html" },
+                    RedirectUris = { "http://localhost:4200/index.html" },
 
                     // where to redirect to after logout
-                    PostLogoutRedirectUris = { "http://localhost:8080/index.html" },
-                    AllowedCorsOrigins =     { "http://localhost:8080" },
+                    PostLogoutRedirectUris = { "http://localhost:4200/index.html" },
+                    AllowedCorsOrigins =     { "http://localhost:4200" },
                     AllowedScopes = new List<string>
                     {
                         IdentityServerConstants.StandardScopes.OpenId,
