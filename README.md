@@ -1,3 +1,4 @@
+
 ## # **[SurveyShrike-IdentityServer](https://github.com/dreamerNcoder/SurveyShrike-IdentityServer)**
 This is one of the main module for *SurveyShrike* application. The user management is done by this micro service. 
 
@@ -29,40 +30,48 @@ Use these instructions to get the project up and running.
 ### Prerequisites
 You will need the following tools:
 
--   [Visual Studio Code or Visual Studio 2019](https://visualstudio.microsoft.com/vs/)  (version 16.3 or later)
--   [.NET Core SDK 3](https://dotnet.microsoft.com/download/dotnet-core/3.0)
--   [Node.js](https://nodejs.org/en/)  (version 10 or later) with npm (version 6.11.3 or later)
-- 
+ -   [Visual Studio Code or Visual Studio 2019](https://visualstudio.microsoft.com/vs/)  (version 16.3 or later)
+ -   [.NET Core SDK 3](https://dotnet.microsoft.com/download/dotnet-core/3.0)
+ -   [Node.js](https://nodejs.org/en/)  (version 10 or later) with npm (version 6.11.3 or later)
+ - 
 ### Setup
 Follow these steps to get your development environment set up:
 
-1.  Clone the repository
+ -  Clone the repository
     
-2.  Open the command prompt to project root directory ***SurveyShrike-IdentityServer***
+ -  Open the command prompt to project root directory ***SurveyShrike-IdentityServer***
     
     ```
     dotnet restore
     
     ```
     
-3.  Next, build the solution by running:
+ -  Next, build the solution by running:
     
     ```
     dotnet build
     
     ```
     
-4.  Next, within the  `SurveyShrike-IdentityServer` (root)  directory, launch the identity server by running:
+ -  Next, within the  `SurveyShrike-IdentityServer` (root)  directory, launch the identity server by running:
     
     ```
     dotnet run bin\Debug\netcoreapp3.0\SurveyShrike-IdentityServer.dll
     
     ```
     
-5.  Once the server has started, within the  navigate to [http://localhost:5000/.well-known/openid-configuration](http://localhost:5000/.well-known/openid-configuration),
+ -  Once the server has started, within the  navigate to [http://localhost:5000/.well-known/openid-configuration](http://localhost:5000/.well-known/openid-configuration),
  If it does not give error, We have successfully configured identity server.
     
  ## Technologies
  -  .NET Core 3
--   ASP.NET Core 3
--   Entity Framework Core 3
+ -   ASP.NET Core 3
+ -   Entity Framework Core 3
+## Project structure
+![enter image description here](https://github.com/dreamerNcoder/SurveyShrike-IdentityServer/blob/ui-update/image.png?raw=true)
+
+
+ - SurveyShrike-IdentityServer - Actual identity server API's.
+ - SurveyShrike-IdentityServer.Application - It contains business-logic and types
+ - SurveyShrike-IdentityServer.Persistence - contains all external concerns
+- SurveyShrike-IdentityServer.Domain- contains enterprise-wide logic and types
