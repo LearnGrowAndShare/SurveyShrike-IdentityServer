@@ -75,7 +75,7 @@ namespace SurveyShrike_IdentityServer
                     policy.AllowAnyHeader();
                     policy.AllowAnyMethod();
                     //policy.AllowAnyOrigin();
-                    policy.WithOrigins("http://localhost:5000", "http://localhost:4200");
+                    policy.WithOrigins("http://localhost:5000", "http://localhost:4200", "http://localhost:8080");
                     policy.AllowCredentials();
                 });
             });
