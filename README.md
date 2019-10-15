@@ -1,7 +1,7 @@
 
 ## # **[SurveyShrike-IdentityServer](https://github.com/dreamerNcoder/SurveyShrike-IdentityServer)**
 This is one of the main module for *SurveyShrike* application. The user management is done by this micro service. 
-
+[![Build Status](https://travis-ci.org/dreamerNcoder/SurveyShrike-API.svg?branch=master)](https://travis-ci.org/dreamerNcoder/SurveyShrike-API)
 
 ## Readings
 **Identity server** – This project uses the [Identity server 4](http://docs.identityserver.io/en/latest/) 
