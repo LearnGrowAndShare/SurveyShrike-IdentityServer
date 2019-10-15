@@ -1,5 +1,5 @@
 language: csharp
-solution: SurveyShrike-API.sln
+solution: SurveyShrike-IdentityServer.sln
 dotnet: 3.0.100
 script:
  - dotnet restore
