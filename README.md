@@ -56,7 +56,7 @@ Follow these steps to get your development environment set up:
  -  Next, within the  `SurveyShrike-IdentityServer` (root)  directory, launch the identity server by running:
     
     ```
-    dotnet run bin\Debug\netcoreapp3.0\SurveyShrike-IdentityServer.dll
+    dotnet run --project .\SurveyShrike-IdentityServer\SurveyShrike-IdentityServer.csproj
     
     ```
     
