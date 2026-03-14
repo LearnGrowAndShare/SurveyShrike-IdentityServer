@@ -10,7 +10,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="AutoMapper" Version="9.0.0" />
+    <PackageReference Include="AutoMapper" Version="16.1.1" />
     <PackageReference Include="FluentValidation" Version="8.5.0" />
     <PackageReference Include="IdentityServer4" Version="3.0.1" />
     <PackageReference Include="MediatR" Version="7.0.0" />
